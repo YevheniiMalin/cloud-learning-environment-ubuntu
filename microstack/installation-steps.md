@@ -65,6 +65,9 @@ juju status -m openstack
 sunbeam launch ubuntu --name demo
 ```
 
+## Related Documentation
+- [Installation Steps](installation-steps.md)
+
 ## Practical Notes
 Key observations from the installation process:
 - deployment was relatively fast
