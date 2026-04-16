@@ -5,6 +5,19 @@
 ![Focus](https://img.shields.io/badge/focus-Infrastructure%20%26%20User%20Isolation-green)
 ![Status](https://img.shields.io/badge/status-Portfolio%20Project-black)
 
+## Recruiter Quick View
+This repository presents a portfolio project based on my bachelor’s thesis.
+
+It demonstrates practical work with:
+- Ubuntu Server
+- virtualization platforms
+- infrastructure planning
+- user isolation
+- technical documentation
+- platform comparison
+
+The project was built to show hands-on understanding of shared virtualized environments and their suitability for ICT learning use.
+
 ## Overview
 This project demonstrates the implementation of a cloud-based ICT learning environment using Ubuntu Server. The focus is on deploying and evaluating two virtualization platforms:
 
