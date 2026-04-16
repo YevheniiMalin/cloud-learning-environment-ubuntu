@@ -1,54 +1,40 @@
 # Architecture
 
+![Architecture Diagram](architecture-diagram.png)
+
 ## Overview
-This project was built around a server-based virtualization environment using Ubuntu Server as the platform foundation.
+This diagram presents the high-level structure of the project environment.
 
-The goal of the architecture was to support the deployment and evaluation of MicroStack and Apache CloudStack in an ICT learning environment.
-
-## Main Components
-The architecture consisted of the following main areas:
-- Ubuntu Server host environment
-- virtualization platform layer
-- network configuration
-- storage configuration
-- user access and administration
-- virtual machine provisioning
-
-## Infrastructure Perspective
-The environment was designed to support:
-- practical platform deployment
-- multi-user access
-- controlled testing
-- virtual machine lifecycle operations
-- comparison of two cloud management platforms
-
-## Platform Approach
-The project evaluated two platforms separately:
+The architecture is based on Ubuntu Server 22.04 LTS as the core platform, with two evaluated virtualization and cloud management solutions:
 - MicroStack
 - Apache CloudStack
 
-They were installed and tested one at a time in order to avoid conflicts and to keep the environment clean for comparison.
+## Purpose
+The goal of the architecture was to support a practical ICT learning environment where virtualization platforms could be deployed, tested, compared, and documented.
 
-## Network Perspective
-The environment required working network configuration for:
-- server communication
-- service availability
-- management access
-- virtual machine networking
+## Main Components
+### Users / Learners
+Represents the end users of the learning environment, such as students or trainees working with shared infrastructure.
 
-Network planning was an important part of ensuring that both platforms could function correctly.
+### Ubuntu Server 22.04 LTS
+Acts as the main platform foundation for the project environment and hosts the tested virtualization solutions.
 
-## Learning Environment Perspective
-From an educational point of view, the architecture was intended to support:
-- hands-on infrastructure learning
-- safe experimentation
+### MicroStack
+Represents the lighter and easier-to-deploy cloud platform used in the project for introductory and basic cloud learning scenarios.
+
+### Apache CloudStack
+Represents the more advanced cloud management platform used for deeper infrastructure administration and more complex learning scenarios.
+
+### Network & Infrastructure
+Represents the supporting technical layer required by the environment, including virtualization, storage, database, and networking components.
+
+## Learning Perspective
+The architecture supports:
+- virtualization learning
+- platform comparison
 - user isolation
-- administration practice
-- repeatable deployment and testing
+- shared infrastructure usage
+- practical administration experience
 
-## Future Additions
-This folder can later include:
-- architecture diagram
-- network layout diagram
-- simplified infrastructure map
-- deployment flow illustration
+## Summary
+The diagram shows how the project environment was structured to compare two cloud platforms in a practical Ubuntu-based server environment.
