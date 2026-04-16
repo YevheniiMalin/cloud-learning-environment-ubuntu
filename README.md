@@ -23,6 +23,15 @@ The project is based on my bachelor’s thesis and presents a practical comparis
 - [Future Improvements](docs/future-improvements.md)
 - [Finnish Version](README_FI.md)
 
+## Why This Project Matters
+This project shows practical work with virtualization, infrastructure planning, platform evaluation, and documentation.
+
+It also demonstrates the ability to:
+- analyze technical platforms in a structured way
+- work with server-based environments
+- think about user isolation and shared infrastructure
+- turn academic work into a practical technical portfolio
+
 ## Goals
 - Deploy cloud platforms on Ubuntu Server
 - Evaluate virtualization platforms for educational use
