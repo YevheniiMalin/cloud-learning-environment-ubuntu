@@ -1,5 +1,10 @@
 # Cloud Learning Environment using Ubuntu
 
+![Platform](https://img.shields.io/badge/platform-Ubuntu%20Server-E95420)
+![Virtualization](https://img.shields.io/badge/virtualization-MicroStack%20%7C%20CloudStack-blue)
+![Focus](https://img.shields.io/badge/focus-Infrastructure%20%26%20User%20Isolation-green)
+![Status](https://img.shields.io/badge/status-Portfolio%20Project-black)
+
 ## Overview
 This project demonstrates the implementation of a cloud-based ICT learning environment using Ubuntu Server. The focus is on deploying and evaluating two virtualization platforms:
 
