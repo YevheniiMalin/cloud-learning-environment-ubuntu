@@ -34,6 +34,7 @@ The project is based on my bachelor’s thesis and presents a practical comparis
 - [Isolation Tests](security/isolation-tests.md)
 - [Platform Comparison](comparison/README.md)
 - [Practical Findings](comparison/practical-findings.md)
+- [Operational Relevance](docs/operational-relevance.md)
 - [Thesis Background](docs/thesis-background.md)
 - [Future Improvements](docs/future-improvements.md)
 - [Finnish Version](README_FI.md)
