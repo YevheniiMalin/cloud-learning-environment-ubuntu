@@ -37,6 +37,7 @@ The project is based on my bachelor’s thesis and presents a practical comparis
 - [Thesis Background](docs/thesis-background.md)
 - [Future Improvements](docs/future-improvements.md)
 - [Finnish Version](README_FI.md)
+- [Project Summary](docs/project-summary.md)
 
 ## Why This Project Matters
 This project shows practical work with virtualization, infrastructure planning, platform evaluation, and documentation.
