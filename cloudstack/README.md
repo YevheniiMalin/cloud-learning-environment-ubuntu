@@ -55,6 +55,9 @@ This provided a much deeper understanding of cloud platform administration.
 - Less beginner-friendly
 - Higher setup and maintenance effort
 
+## Related Documentation
+- [Installation Steps](installation-steps.md)
+
 ## Practical Outcome
 Apache CloudStack proved to be a powerful platform for more advanced learning environments.
 
