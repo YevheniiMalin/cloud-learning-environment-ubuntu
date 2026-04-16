@@ -8,6 +8,16 @@ This project demonstrates the implementation of a cloud-based ICT learning envir
 
 The project is based on my bachelor’s thesis and presents a practical comparison of both platforms from the perspective of learning environments, infrastructure management, usability, and user isolation.
 
+## Repository Contents
+- [Architecture](architecture/README.md)
+- [MicroStack](microstack/README.md)
+- [Apache CloudStack](cloudstack/README.md)
+- [Security and User Isolation](security/README.md)
+- [Platform Comparison](comparison/README.md)
+- [Thesis Background](docs/thesis-background.md)
+- [Future Improvements](docs/future-improvements.md)
+- [Finnish Version](README_FI.md)
+
 ## Goals
 - Deploy cloud platforms on Ubuntu Server
 - Evaluate virtualization platforms for educational use
@@ -24,14 +34,6 @@ The project is based on my bachelor’s thesis and presents a practical comparis
 - NFS
 - Linux system administration
 - Virtualization and networking
-
-## Project Structure
-- `architecture/` – architecture and network design
-- `microstack/` – MicroStack installation, configuration, and tests
-- `cloudstack/` – Apache CloudStack installation, configuration, and tests
-- `security/` – user isolation and security-related notes
-- `comparison/` – comparison between both platforms
-- `docs/` – future improvements and additional notes
 
 ## Key Focus Areas
 - Virtualization as an ICT learning environment
@@ -50,17 +52,18 @@ The project showed that both MicroStack and Apache CloudStack can be used in an 
 - MicroStack is well suited for learning and introductory use
 
 ## Background
-This repository is based on my bachelor’s thesis:
+This repository is based on my bachelor’s thesis:  
 **“Virtualization Technology as an ICT Learning Environment”**
 
 The purpose of this repository is to turn the thesis work into a more technical and practical portfolio project.
 
-## Future Improvements
-- Add architecture diagrams
-- Add installation screenshots where relevant
-- Add example configurations and sanitized commands
-- Add automation examples
-- Expand security and IAM-related documentation
+## Future Direction
+This project can be extended with:
+- architecture diagrams
+- sanitized configuration examples
+- automation scripts
+- security hardening notes
+- cloud governance and IAM-oriented extensions
 
 ## Author
 **Yevhenii Malin**  
