@@ -50,6 +50,9 @@ The work also included:
 - More limited management depth compared to Apache CloudStack
 - Better for learning fundamentals than for advanced service management scenarios
 
+## Related Documentation
+- [Installation Steps](installation-steps.md)
+
 ## Practical Outcome
 MicroStack proved to be a strong option for teaching and learning cloud fundamentals, especially where fast setup and ease of use are important.
 
